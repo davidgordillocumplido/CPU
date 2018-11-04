@@ -28,13 +28,3 @@
 
 -Siempre que veamos un 32 en una palabra significa que el tamaño máximo de archivos es de 4 GB
 
-
-## FDisk
-
-### Definción y función
-
--Es un software que se puede instalar en diferentes sistemas operativos ,el cual permite dividir en forma lógica un disco duro, siendo denominado este nuevo espacio como partición. La descripción de las particiones se guarda en la tabla de particiones que se localiza en el sector 0 de cada disco.
-
-### Explicación
-
--El programa tiene una interfaz de sólo texto y funciona sobre MBR - BIOS - DOS. Básicamente el programa permite: crear una partición lógica de MBR - BIOS - DOS, establecer la partición activa, eliminar una partición lógica de MBR - BIOS - DOS y mostrar información sobre la partición.
